@@ -152,10 +152,10 @@
 			"alum": false
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@58e657f6bd2072bbff84bb435c946862e85ddebe/images/Andrew%20Shaw_20260318_1002%20Square.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@48363eda2db07c6286e7387101110e351ed5fe37/images/Andrew%20Shaw_20260318_1002%20Square.png",
 			"name": "Andrew Shaw",
 			"jobTitle": "masters",
-			"bio": "Andrew Shaw (he/him) is an undergraduate student at the University of Washington studying computer science and philosophy. His resesarch interests are in computer and AI ethics, particularly regarding the impacts of sociotechnical systems on marginalized communities.",
+			"bio": "Andrew Shaw (he/him) is a master's student at the University of Washington studying computer science and philosophy. His resesarch interests are in computer and AI ethics, particularly regarding the impacts of sociotechnical systems on marginalized communities.",
 			"links": {
 				"website_url": "https://www.linkedin.com/in/andrew-b-shaw/"
 			},
@@ -196,6 +196,17 @@
 			"alum": false
 		},
 		{
+			"name": "Nakul Rajpal",
+			"jobTitle": "undergrad",
+			"bio": "Nakul is a Computer Science undergraduate at Northeastern University, minoring in Math. His primary interests are in HCI and social computing, where he is focused on evaluating and developing more inclusive and equitable AI tools.",
+			"links": {
+				"website_url": "https://nakulrajpal.com"
+			},
+			"image": "https://cdn.jsdelivr.net/gh/Social-Futures-Lab/social-futures-lab.github.io@7e113cb0270c2995a1c14c42b93e26fbb7cd3501/images/nakulrajpal.jpg",
+			"@type": "Person",
+			"alum": false
+		},
+		{
 			"name": "Tanjal Shukla",
 			"jobTitle": "undergrad",
 			"bio": "Tanjal is an undergraduate student at the University of Washington studying Computer Science and Computational Finance. His research interests are in safely empowering more capable and trustworthy AI agents.",
@@ -219,6 +230,29 @@
 				"email": "aaditbarua@utexas.edu"
 			},
 			"alum": false
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@407473d1397b3a91fed10d78f4015559f9f2549b/images/Timothy%20Jo.jpg",
+			"name": "Timothy Jo",
+			"jobTitle": "intern",
+			"@type": "Person",
+			"bio": "Timothy Jo is an undergraduate student at California Polytechnic State University, Pomona studying Computer Science and Psychology. His current research interests are in human-AI interaction and designing trustworthy AI tools.",
+			"links": {
+				"website_url": "https://www.linkedin.com/in/timothysjo/",
+				"email": "tsjo@cpp.edu"
+			},
+			"alum": false
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/rickygv99/lab_website@d111a36ed76a4a06f02a0b1474b354b4ebe95694/images/IMG_9719.JPEG",
+			"name": "Jane Carney",
+			"jobTitle": "intern",
+			"bio": "Jane is an undergraduate student at Saint Mary’s College of California studying Computer Science and Math. Her current research interests are in HCI, tech policy, and AI ethics.",
+			"alum": false,
+			"links": {
+				"website_url": "http://www.linkedin.com/in/jane-carney20"
+			},
+			"@type": "Person"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/amyxzhang/lab_website@64e7ff7279ef1e8d2ceb433713cf591819cbd9d1/images/shagun.png",
